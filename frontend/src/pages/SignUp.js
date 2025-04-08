@@ -58,6 +58,7 @@ function SignUp() {
         </form>
         <p className="auth-switch">
           Already have an account? <Link to="/">Sign in</Link>
+          Already have an account? <Link to="/authors">Authors</Link>
         </p>
       </div>
     </div>
